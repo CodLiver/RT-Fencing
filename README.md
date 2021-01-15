@@ -1,6 +1,8 @@
 # RT-Fencing
 Real Time Fencing Move Classification and Detection at Touch Time during a Fencing Match
 
+Sunal, Cem Ekin, Willcocks, Chris G. & Obara, Boguslaw (2020), Real Time Fencing Move Classification and Detection at Touch Time during a Fencing Match, _Proc. Int. Conf. Pattern Recognition_. IEEE.
+
 
 to the model state and other sources
 https://drive.google.com/drive/folders/1IHlRLp2y5sltFbCKqQoKaFS5xLk9gGB4?usp=sharing
